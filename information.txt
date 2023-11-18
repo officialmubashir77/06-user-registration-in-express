@@ -1,0 +1,4 @@
+get method ====== read data
+post method ====== insert data
+put or patch ===== update data , or insert if a new id 
+delete ===== delete data 
